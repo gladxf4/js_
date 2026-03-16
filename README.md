@@ -38,5 +38,3 @@ Welcome to your comprehensive guide to mastering JavaScript! This repository con
    node 01-Basics/script.js
    ```
    *For DOM modules (05, 13), open `index.html` in your browser.*
-
-Happy Coding! 💻
